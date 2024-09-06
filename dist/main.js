@@ -28,17 +28,24 @@ const sum = (n1, n2) => {
     return n1 + n2;
 };
 function greet(name) {
+    console.log(`Hello ${name}`);
 }
 const book = {
     title: 'Alchemist',
     author: 'Paolo Cohelo',
     genre: 'fiction'
 };
+const course = {
+    title: 'React',
+    duration: 40
+};
+let mixed;
+mixed = 10;
+mixed = 'hello';
 let mixedArray;
 mixedArray = [10, 'hello'];
 let person;
 person = ['user', 30, 'female', true];
 let message = 'Hello';
 let messageLength = message.length;
-let userAge = 'Hello';
 //# sourceMappingURL=main.js.map
