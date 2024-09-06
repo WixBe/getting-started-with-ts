@@ -89,9 +89,10 @@ TypeScript is a powerful language that is designed for the development of large 
     npm init -y
     npm install
 
-    npm i -D tsc 
+   ~~ npm i -D tsc ~~
 
-    npm uninstall tsc
+  ~~ npm uninstall tsc ~~
+    
     npm i --save-dev typescript
     npm run init
 
